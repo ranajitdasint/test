@@ -1,3 +1,3 @@
 <?php
-jingkdhkdmklfhmlkdfl
+echo "welcome to Indus Net Technology.";
 ?>
