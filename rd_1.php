@@ -1,4 +1,4 @@
 <?php
-echo "welcome to Indus Net Technology.121212";
+echo "welcome to Indus Net Technology.";
 
 ?>
